@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Machine learning, Python, NLP, AWS, Tensorflow , TABLEAU, and SQL**
 
-- 📫 How to reach me **Click here(teettoo.mi@gmail.com)**
+- 📫 How to reach me **Click [here](teettoo.mi@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
