@@ -1,25 +1,21 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Titilayo Amuwo</h1>
 <h3 align="center">A passionate Data Scientist with two Bachelor’s degrees and experience with vast data sets to break down information, gather relevant points and solve advanced business problems. I am skilled in predictive modeling, data mining and hypothetical testing. Also highly organized, motivated and diligent with a significant background in Accounting.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teetee-lab&label=Profile%20views&color=0e75b6&style=flat" alt="teetee-lab" /> </p>
 
-- 🔭 I’m currently working on [Soccer Match Betting Project](https://github.com/Teetee-lab/SoccerMatchBetting)
+- 🔭 I’m currently working on **Soccer Match Betting Project**
 
-- 🌱 I’m currently learning **SCALA**
+- 🌱 I’m currently learning **Scala**
 
 - 👯 I’m looking to collaborate on **Any Open source**
 
-- 🤝 I’m looking for help with **Non-Profit projects**
+- 👨‍💻 All of my projects are available at [[Portfolio](https://github.com/Teetee-lab/)]([Portfolio](https://github.com/Teetee-lab/))
 
-- 👨‍💻 All of my projects are available at [https://github.com/Teetee-lab/](https://github.com/Teetee-lab/)
+- 📝 I regularly write articles on [[Blog](https://teettoo-mi.medium.com/)]([Blog](https://teettoo-mi.medium.com/))
 
-- 📝 I regularly write articles on [https://teettoo-mi.medium.com/](https://teettoo-mi.medium.com/)
+- 💬 Ask me about **Machine learning,Python, NLP, Tensorflow and SQL**
 
-- 💬 Ask me about **Machine learning,Python, NLP, Tensorflow**
-
-- 📫 How to reach me **teettoo.mi@gmail.com**
+- 📫 How to reach me **Click [here](teettoo.mi@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
