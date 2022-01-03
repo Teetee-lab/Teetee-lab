@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Any Open source**
 
-- 👨‍💻 All of my projects are available at [[Portfolio](https://github.com/Teetee-lab/)]([Portfolio](https://github.com/Teetee-lab/))
+- 👨‍💻 All of my projects are available at [[Portfolio](https://github.com/Teetee-lab/)]
 
-- 📝 I regularly write articles on [[Blog](https://teettoo-mi.medium.com/)]([Blog](https://teettoo-mi.medium.com/))
+- 📝 I regularly write articles on [[Blog](https://teettoo-mi.medium.com/)]
 
-- 💬 Ask me about **Machine learning,Python, NLP, Tensorflow and SQL**
+- 💬 Ask me about **Machine learning, Python, NLP, AWS, Tensorflow , TABLEAU, and SQL**
 
-- 📫 How to reach me **Click [here](teettoo.mi@gmail.com)**
+- 📫 How to reach me **Click here(teettoo.mi@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
