@@ -1,4 +1,4 @@
-<img src="Images.png" width="100%" height="100%">
+<img src="../Image.png" width="100%" height="100%">
 
 <h1 align="center">Hi 👋, I'm Titilayo Amuwo</h1>
 <h3 align="center">A passionate Data Scientist with two Bachelor’s degrees and experience with vast data sets to break down information, gather relevant points and solve advanced business problems. I am skilled in predictive modeling, data mining and hypothetical testing. Also highly organized, motivated and diligent with a significant background in Accounting.</h3>
