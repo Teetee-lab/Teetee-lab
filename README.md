@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Profile](https://www.canva.com/design/DAEz-Q0nEkA/cBZMGtLa6LtFyDNP7AtKag/view?utm_content=DAEz-Q0nEkA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
 <h1 align="center">Hi 👋, I'm Titilayo Amuwo</h1>
 <h3 align="center">A passionate Data Scientist with background in Accounting</h3>
 
