@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [[Blog](https://teettoo-mi.medium.com/)]
 
-- 💬 Ask me about ** Machine learning, Python, jupyter notebook, Apache Spark, NLP, AWS, Tensorflow , TABLEAU, and SQL **
+- 💬 Ask me about **Machine learning, Python, jupyter notebook, Apache Spark, NLP, AWS, Tensorflow , TABLEAU, and SQL**
 
 - 📫 How to reach me **Click [here](teettoo.mi@gmail.com)**
 
