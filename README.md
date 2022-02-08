@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Soccer Match Prediction App](Click [Here](https://soccer-match-predictor-app.herokuapp.com/))
 
-- 🌱 I’m currently learning **Scala**
+- 🌱 I’m currently learning **Jina**
 
 - 👯 I’m looking to collaborate on **Any Open source**
 
