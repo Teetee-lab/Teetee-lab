@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teetee-lab&label=Profile%20views&color=0e75b6&style=flat" alt="teetee-lab" /> </p>
 
-- 🔭 I’m currently working on [Soccer Match Prediction App](Click [Here](https://soccer-match-predictor-app.herokuapp.com/))
+- 🔭 I’m currently working on ThinkOutside,Energyflow Project.
 
 - 🌱 I’m currently learning **Jina**
 
 - 👯 I’m looking to collaborate on **Any Open source**
 
-- 👨‍💻 All of my projects are available at [[Portfolio](https://github.com/Teetee-lab/)]
+- 👨‍💻 All of my projects are available at [[Portfolio](https://troopl.com/titilayo)]
 
 - 📝 I regularly write articles on [[Blog](https://teettoo-mi.medium.com/)]
 
-- 💬 Ask me about ** Python, MATLAB , Apache Spark, NLP, Jina, Tensorflow ,Machine Learning, TABLEAU, and SQL**
+- 💬 Ask me about ** Excel, Python, MATLAB , Apache Spark, NLP, Jina, Tensorflow ,Machine Learning, TABLEAU, and SQL**
 
 - 📫 How to reach me **Click [here](teettoo.mi@gmail.com)**
 
