@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on ThinkOutside,Energyflow Project.
 
-- 🌱 I’m currently learning **Jina**
-
 - 👯 I’m looking to collaborate on **Any Open source**
 
 - 👨‍💻 All of my projects are available at [[Portfolio](https://troopl.com/titilayo)]
 
 - 📝 I regularly write articles on [[Blog](https://teettoo-mi.medium.com/)]
 
-- 💬 Ask me about ** Excel, Python, MATLAB , Apache Spark, NLP, Jina, Tensorflow ,Machine Learning, TABLEAU, and SQL**
+- 💬 Ask me about ** Excel, Python, MATLAB , Apache Spark, NLP, Jina AI, Tensorflow ,Machine Learning, TABLEAU, and SQL**
 
 - 📫 How to reach me **Click [here](teettoo.mi@gmail.com)**
 
