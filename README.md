@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **Click [here](teettoo.mi@gmail.com)**
 
+- To view my Tableau Vizzes **Click [here](https://public.tableau.com/app/profile/teetee.amuwo)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/titilayo-teetee-amuwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="titilayo-teetee-amuwo" height="30" width="40" /></a>
