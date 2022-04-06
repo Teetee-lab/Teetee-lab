@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Click [here](teettoo.mi@gmail.com)**
 
-- To view my Tableau Vizzes **Click [here](https://public.tableau.com/app/profile/teetee.amuwo)**
+- To view Tableau Vizzes  **Click [here](https://public.tableau.com/app/profile/teetee.amuwo)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
