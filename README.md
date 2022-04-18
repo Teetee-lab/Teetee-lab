@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [[Blog](https://teettoo-mi.medium.com/)]
 
-- 💬 Ask me about **Excel, Python, MATLAB, Pandas , Apache Spark, NLP, Jina AI, Tensorflow ,Machine Learning, Deep Learning, TABLEAU, and SQL**
+- 💬 Ask me about **Excel, Python, SQL, Pandas , Apache Spark, NLP, Jina AI, Tensorflow ,Machine Learning, Deep Learning, TABLEAU, AWS, and MATLAB**
 
 - 📫 How to reach me **Click [here](teettoo.mi@gmail.com)**
 
