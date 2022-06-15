@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teetee-lab&label=Profile%20views&color=0e75b6&style=flat" alt="teetee-lab" /> </p>
 
-- 🔭 I’m currently working on ThinkOutside,Energyflow Project.
+- 🔭 I’m currently working on Omdena project- Using AI to build sustainability benchmarking system globally.
 
 - 👯 I’m looking to collaborate on **Any Open source**
 
