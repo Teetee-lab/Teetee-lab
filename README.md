@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teetee-lab&label=Profile%20views&color=0e75b6&style=flat" alt="teetee-lab" /> </p>
 
-- 🔭 I’m currently working on Omdena project-(Driq Project) and collaborating with fellow Digidems on OCR workshop.
+- 🔭 I’m currently working on Omdena project-(Driq) and collaborating with fellow Digidems on OCR workshop.
 
 - 👯 I’m looking to collaborate on **Any Open source**
 
