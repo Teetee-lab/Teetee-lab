@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently collaborating on Omdena projects on [[Dagshub](https://dagshub.com/Omdena)].
 
-- 👯 I’m looking to collaborate on **Any Open source**
-
 - 👨‍💻 All of my projects are available at [[Portfolio](https://troopl.com/titilayo)]
 
 - 📝 I regularly write articles on [[Blog](https://teettoo-mi.medium.com/)]
 
-- 💬 Ask me about **Excel, Python, SQL, Pandas , Apache Spark, NLP, Jina AI, Tensorflow ,Machine Learning, Deep Learning, TABLEAU, AWS, and MATLAB**
+- 💬 Ask me about **Excel, Python, SQL, Pandas, Apache Spark, NLP, Jina AI, Tensorflow, Machine Learning, Deep Learning, TABLEAU, AWS, Google Sheet and MATLAB**
 
 - 📫 How to reach me **Click [here](teettoo.mi@gmail.com)**
 
