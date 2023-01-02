@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teetee-lab&label=Profile%20views&color=0e75b6&style=flat" alt="teetee-lab" /> </p>
 
-- 🔭 I’m currently collaborating on Omdena projects on [[Dagshub](https://dagshub.com/Omdena)].
-
 - 👨‍💻 All of my projects are available at [[Portfolio](https://troopl.com/titilayo)]
 
 - 📝 I regularly write articles on [[Blog](https://teettoo-mi.medium.com/)]
