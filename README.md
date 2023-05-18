@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Titilayo Amuwo</h1>
-<h3 align="center">A passionate Data Scientist with experience with vast datasets to break down information, gather relevant points and solve advanced business problems. I'm skilled in predictive modeling, data mining and hypothetical testing. Also highly organized, motivated and diligent with a significant background in Accounting.</h3>
+<h3 align="left">A passionate Data Scientist with experience with vast datasets to break down information, gather relevant points and solve advanced business problems. I'm skilled in predictive modeling, data mining and hypothetical testing. Also highly organized, motivated and diligent with a significant background in Accounting.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teetee-lab&label=Profile%20views&color=0e75b6&style=flat" alt="teetee-lab" /> </p>
 
