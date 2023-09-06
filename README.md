@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [[Blog](https://medium.com/@publicationbytee)]
 
-- 💬 Ask me about **Excel, Python, SQL, Pandas, Apache Spark, NLP, Tensorflow, Machine Learning, Deep Learning, TABLEAU, HTML, CSS, AWS, Google Cloud Platform and MATLAB**
+- 💬 Ask me about **Excel, Python, SQL, Pandas, Apache Spark, NLP, Tensorflow, Machine Learning, Deep Learning, TABLEAU, HTML, CSS, AWS, Google Cloud Platform, and MATLAB**
 
 - 📫 How to reach me **Click [here](https://www.linkedin.com/in/titilayo-teetee-amuwo/)**
 
