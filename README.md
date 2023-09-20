@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Click [here](https://www.linkedin.com/in/titilayo-teetee-amuwo/)**
 
-- To view Tableau Vizzes  **Click [here](https://public.tableau.com/app/profile/teetee.amuwo)**
+- To view Tableau Vizzes  **Click [here](https://public.tableau.com/app/profile/titilayo.amuwo)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
