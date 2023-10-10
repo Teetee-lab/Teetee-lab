@@ -1,10 +1,10 @@
 
-<h1 style = 'color: black', align="left">Hello ! 👋, I'm Titilayo Amuwo</h1>
-<h3 style = 'color: black',align="left">A passionate Data Scientist with experience with vast datasets to break down information, gather relevant points, and solve advanced business problems. I'm skilled in predictive modeling, machine learning, deep learning, and hypothetical testing. Also highly organized, motivated, and diligent with a significant background in Accounting.</h3>
+<h1 style = 'color: black' align="left">Hello ! 👋, I'm Titilayo Amuwo</h1>
+<h3 style = 'color: black' align="left">A passionate Data Scientist with experience with vast datasets to break down information, gather relevant points, and solve advanced business problems. I'm skilled in predictive modeling, machine learning, deep learning, and hypothetical testing. Also highly organized, motivated, and diligent with a significant background in Accounting.</h3>
 
-👨‍💻 All of my projects are available at [[Portfolio](https://abbyamuwo.com)]
+👨‍💻 All of my projects are available at [Portfolio](https://abbyamuwo.com)
 
-📝 I regularly write articles on [[Blog](https://medium.com/@publicationbytee)]
+📝 I regularly write articles on [Blog](https://medium.com/@publicationbytee)
 
 💬 Ask me about **Excel, Python, SQL, Pandas, Apache Spark, NLP, Tensorflow, Machine Learning, Deep Learning, TABLEAU, HTML, CSS, AWS, Google Cloud Platform, and MATLAB**
 
