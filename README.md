@@ -1,16 +1,16 @@
 
 <h1 <span style = 'color: black'></>Hello ! 👋, I'm Titilayo Amuwo</i></span></h1>
-<h3 style = 'color: black' align="left"></h3>
+<h3 style = 'color: black'></></i> I am passionate about all things Information Technology 👨‍💻</span></h3>
 
-👨‍💻 All of my projects are available at [Portfolio](https://abbyamuwo.com)
+👨‍💻 All of my projects are available [here](https://abbyamuwo.com)
 
-📝 I regularly write articles on [Blog](https://medium.com/@publicationbytee)
+📝 I write articles on [medium](https://medium.com/@publicationbytee)
 
 💬 Ask me about **Excel, Python, SQL, Pandas, Apache Spark, NLP, Tensorflow, Machine Learning, Deep Learning, TABLEAU, HTML, CSS, AWS, Google Cloud Platform, and MATLAB**
 
-📫 How to reach me **Click [here](https://www.linkedin.com/in/titilayo-teetee-amuwo/)**
+📫 How to reach me click **[here](https://www.linkedin.com/in/titilayo-teetee-amuwo/)**
 
-To view Tableau Vizzes  **Click [here](https://public.tableau.com/app/profile/titilayo.amuwo)**
+To view Tableau Vizzes  click **[here](https://public.tableau.com/app/profile/titilayo.amuwo)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
