@@ -1,6 +1,6 @@
 
-<h1 style = 'color: black' align="left">Hello ! 👋, I'm Titilayo Amuwo</h1>
-<h3 style = 'color: black' align="left">A passionate Data Scientist with experience with vast datasets to break down information, gather relevant points, and solve advanced business problems. I'm skilled in predictive modeling, machine learning, deep learning, and hypothetical testing. Also highly organized, motivated, and diligent with a significant background in Accounting.</h3>
+<h1 <span style = 'color: black'></>Hello ! 👋, I'm Titilayo Amuwo</i></span></h1>
+<h3 style = 'color: black' align="left"></h3>
 
 👨‍💻 All of my projects are available at [Portfolio](https://abbyamuwo.com)
 
