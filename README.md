@@ -1,22 +1,21 @@
 
-<h1 style = 'color:black' align="center">Hello ! 👋, I'm Titilayo Amuwo</h1>
-<h3 align="center">A passionate Data Scientist with experience with vast datasets to break down information, gather relevant points, and solve advanced business problems. I'm skilled in predictive modeling, machine learning, deep learning, and hypothetical testing. Also highly organized, motivated, and diligent with a significant background in Accounting.</h3>
+<h1 style = 'color: black', align="left">Hello ! 👋, I'm Titilayo Amuwo</h1>
+<h3 style = 'color: black',align="left">A passionate Data Scientist with experience with vast datasets to break down information, gather relevant points, and solve advanced business problems. I'm skilled in predictive modeling, machine learning, deep learning, and hypothetical testing. Also highly organized, motivated, and diligent with a significant background in Accounting.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=teetee-lab&label=Profile%20views&color=0e75b6&style=flat" alt="teetee-lab" /> </p>
+👨‍💻 All of my projects are available at [[Portfolio](https://abbyamuwo.com)]
 
-- 👨‍💻 All of my projects are available at [[Portfolio](https://abbyamuwo.com)]
+📝 I regularly write articles on [[Blog](https://medium.com/@publicationbytee)]
 
-- 📝 I regularly write articles on [[Blog](https://medium.com/@publicationbytee)]
+💬 Ask me about **Excel, Python, SQL, Pandas, Apache Spark, NLP, Tensorflow, Machine Learning, Deep Learning, TABLEAU, HTML, CSS, AWS, Google Cloud Platform, and MATLAB**
 
-- 💬 Ask me about **Excel, Python, SQL, Pandas, Apache Spark, NLP, Tensorflow, Machine Learning, Deep Learning, TABLEAU, HTML, CSS, AWS, Google Cloud Platform, and MATLAB**
+📫 How to reach me **Click [here](https://www.linkedin.com/in/titilayo-teetee-amuwo/)**
 
-- 📫 How to reach me **Click [here](https://www.linkedin.com/in/titilayo-teetee-amuwo/)**
-
-- To view Tableau Vizzes  **Click [here](https://public.tableau.com/app/profile/titilayo.amuwo)**
+To view Tableau Vizzes  **Click [here](https://public.tableau.com/app/profile/titilayo.amuwo)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/titilayo-teetee-amuwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="titilayo-teetee-amuwo" height="30" width="40" /></a>
+<a href="https://twitter.com/Teecodee" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
