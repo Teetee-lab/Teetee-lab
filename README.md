@@ -1,16 +1,14 @@
 
-<h1 <span style = 'color: black'></>Hello ! 👋, I'm Titilayo Amuwo</i></span></h1>
-<h3 style = 'color: black'></></i> I am passionate about all things Information Technology 👨‍💻</span></h3>
+<h1 <span style = 'color: black'></>Hello ! 👋, I am Titilayo Amuwo, call me Abby</i></span></h1>
+<h3 <span style = 'color: black'></>I am passionate about Technology, Innovation, Data Science, Machine Learning, and Artificial Intelligence👨‍💻</i></span></h3>
 
-👨‍💻 All of my projects are available [here](https://abbyamuwo.com)
+👨‍💻 Learn more about me [here](https://abbyamuwo.com)
 
 📝 I write articles on [medium](https://medium.com/@publicationbytee)
 
 💬 Ask me about **Excel, Python, Java, SQL, Pandas, Apache Spark, NLP, Tensorflow, Machine Learning, Deep Learning, Tableau, HTML, CSS, Amazon Web Services, Google Cloud Platform, Matlab, SaaS, and IaaS.**
 
-📫 How to reach me click **[here](https://www.linkedin.com/in/titilayo-teetee-amuwo/)**
-
-To view Tableau Vizzes  click **[here](https://public.tableau.com/app/profile/titilayo.amuwo)**
+Tableau Vizzes click **[here](https://public.tableau.com/app/profile/titilayo.amuwo)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
