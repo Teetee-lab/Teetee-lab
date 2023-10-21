@@ -1,6 +1,6 @@
 
 <h1 <span style = 'color: black'></>Hello ! 👋, I am Titilayo Amuwo, call me Abby</i></span></h1>
-<h3 <span style = 'color: black'></>I am passionate about Technology, Innovation, Data Science, Machine Learning, and Artificial Intelligence👨‍💻</i></span></h3>
+<h3 <span style = 'color: black'></>I am passionate about Data Science, Machine Learning, Artificial Intelligence, Technology, and Innovation</i></span></h3>
 
 👨‍💻 Learn more about me [here](https://abbyamuwo.com)
 
