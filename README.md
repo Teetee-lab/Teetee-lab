@@ -4,7 +4,7 @@
 
 👨‍💻 Learn more about me [here](https://abbyamuwo.com)
 
-📝 I write articles on [medium](https://medium.com/@publicationbytee)
+📝 I write blogs on [Medium](https://medium.com/@publicationbytee)
 
 💬 Ask me about **Excel, Python, Java, SQL, Pandas, Apache Spark, NLP, Tensorflow, Machine Learning, Deep Learning, Tableau, HTML, CSS, Amazon Web Services, Google Cloud Platform, Matlab, SaaS, and IaaS.**
 
