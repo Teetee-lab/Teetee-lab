@@ -1,6 +1,6 @@
 
-<h1 <span style = 'color: black'></>Hello, I am Titilayo.</i></span></h1>
-<h3 <span style = 'color: black'></>I am passionate about Data Science, Machine Learning, Artificial Intelligence, Technology, and Innovation</i></span></h3>
+<h1 <span style = 'color: black'></>Hello, I am Titilayo</i></span></h1>
+<h3 <span style = 'color: black'></>I'm passionate about Data Science, Machine Learning, Artificial Intelligence, Technology and Innovation</i></span></h3>
 
 👨‍💻 Learn more about me [here](https://abbyamuwo.com)
 
@@ -8,7 +8,7 @@
 
 💬 Ask me about **Excel, Python, Java, SQL, Pandas, Apache Spark, NLP, Tensorflow, Machine Learning, Deep Learning, Tableau, HTML, CSS, Amazon Web Services, Google Cloud Platform, Matlab, SaaS, and IaaS.**
 
-Tableau Vizzes click **[here](https://public.tableau.com/app/profile/titilayo.amuwo)**
+Tableau Vizzes click [here](https://public.tableau.com/app/profile/titilayo.amuwo)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
