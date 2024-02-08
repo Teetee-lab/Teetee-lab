@@ -15,9 +15,9 @@ Tableau Vizzes click [here](https://public.tableau.com/app/profile/titilayo.amuw
 <h3 align="left">Languages and Tools:</h3>
 <p> <li><span>Programming Languages:</span><br>Python, SQL, HTML, CSS</li>
   <li><span>Machine Learning / Deep Learning:</span><br>Pytorch, TensorFlow, Keras, Sckit-Learn, AutoGluon, Gen AI</li>
-  <li><span>Cloud Services Integration:</span><br>Amazon Web Services, Google Cloud Services</li>
-  <li><span>Data Analysis: </span><br>Tableau, Pandas, Matplotlib, Seaborn, Plotly, AWS Quicksight and AWS Data Wrangler</li>
-  <li><span>Big Data:</span><br>Apache Spark, and Apache Hadoop</li>
+  <li><span>Cloud Services Integration:</span><br>Amazon Web Services, Google Cloud Services, Microsoft Azure</li>
+  <li><span>Data Analysis: </span><br>Excel, Tableau, Pandas, Matplotlib, Seaborn, Plotly, AWS Quicksight, AWS Data Wrangler</li>
+  <li><span>Big Data:</span><br>Apache Spark, Hadoop</li>
   <li><span>Other Skills: </span><br>Team-work, Collaboration, Communication, Business Development, Statistical Analysis, Hypothesis Testing, Quantitative Analysis, Countinuous Integration, Continuous Development, Transfer Learning, Autoencoder, Object Detection and Object Segmentation</li></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teetee-lab&show_icons=true&locale=en" alt="teetee-lab" /></p>
