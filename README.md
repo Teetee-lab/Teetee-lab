@@ -1,6 +1,6 @@
 
 <h1 <span style = 'color: black'></>Hello, I am Titilayo</i></span></h1>
-<h3 <span style = 'color: black'></>I'm passionate about Data Science, Machine Learning, Artificial Intelligence, Technology and Innovation</i></span></h3>
+<h3 <span style = 'color: black'></>I'm a Data, Technology and Innovation ethusiast</i></span></h3>
 
 👨‍💻 Learn more about me [here](https://abbyamuwo.com)
 
