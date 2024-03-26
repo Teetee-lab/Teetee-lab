@@ -13,7 +13,7 @@ Tableau Vizzes click [here](https://public.tableau.com/app/profile/titilayo.amuw
 
 <p><li><span><strong>Technical Skills</strong></span><br>Python, SQL, Java, JavaScript, Gen AI</li>
                         <li><span><strong>Area of Expertise</strong></span><br>Machine learning, Artificial Intelligence, Web Development, Statistical Analysis, Data Visualization, Hypothesis Testing, Continuous Integration, Continuous Development, Autoencoder, Object Detection, Object Segmentation</li>
-                        <li><span><strong>Infrastructure Integration</strong></span><br>Amazon Web Services, Google Cloud Services</li>
+                        <li><span><strong>Infrastructure Integration</strong></span><br>Amazon Web Services, Google Cloud Services, Microsoft Azure</li>
                         <li><span><strong>Skills</strong></span><br>Team-work, Communication, Inference, Problem-solving, Analysis, Observation, Critical Thinking</li></li></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teetee-lab&show_icons=true&locale=en" alt="teetee-lab" /></p>
