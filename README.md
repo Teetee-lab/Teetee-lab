@@ -1,11 +1,11 @@
 
 <h1 <span style = 'color: '></>Welcome!</i></span></h1>
 
-👨‍💻 Learn more about me [here](https://abbyamuwo.com)
+👨‍💻 [Website](https://abbyamuwo.com)
 
-📝 I write blogs [here](https://medium.com/@publicationbytee)
+📝 [Blogs](https://medium.com/@publicationbytee)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/titilayo-teetee-amuwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="titilayo-teetee-amuwo" height="30" width="40" /></a>
 
